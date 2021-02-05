@@ -1,2 +1,2 @@
 var quotation = require('./App')
-console.log(quotation(8))
+console.log(quotation('yoyo'))
